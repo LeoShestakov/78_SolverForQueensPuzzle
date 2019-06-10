@@ -1,20 +1,9 @@
 # represent a solver for the queens problem
 
-## [your name here]'s remarks
+## Leo Shestakov's remarks
 
 ### citations / worked with / received help from
-Replace this paragraph with a solid accounting of your sources.
-People have become either lackadaisical or dishonest
-about crediting others for ideas and help. 
-If I grade this work, I will rely on this section as
-a complete listing for judging academic honesty.
-
-This list may omit sources common to everyone in the course,
-including...
-* Piazza threads
-* class-wide discussions
-* communication with Holmes via the class
-web site or GitHub repos.
+I received no assistance in completing this assignment, and all the added work presented here is mine.
 
 
 ## Holmes's remarks
